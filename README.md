@@ -159,12 +159,11 @@ Includes:
 - **GitHub Repository:** https://github.com/martinlanabengut/mental-health-ml-clustering
 - **Dataset Source:** https://www.kaggle.com/datasets/osmi/mental-health-in-tech-2016
 
-## 📧 Contact
 
 Martin Lana Bengut  
 DLBDSMLUSL01 – Machine Learning Case Study
 
 ---
 
-**Status:** ✅ Analysis Complete
+
 
