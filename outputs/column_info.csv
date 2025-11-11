@@ -1,0 +1,64 @@
+Column,Type,Unique_Values,Missing,Missing_Pct
+Are you self-employed?,int64,2,0,0.0
+How many employees does your company or organization have?,object,6,287,20.02791346824843
+Is your employer primarily a tech company/organization?,float64,2,287,20.02791346824843
+Is your primary role within your company related to tech/IT?,float64,2,1170,81.64689462665736
+Does your employer provide mental health benefits as part of healthcare coverage?,object,4,287,20.02791346824843
+Do you know the options for mental health care available under your employer-provided coverage?,object,3,420,29.309141660851363
+"Has your employer ever formally discussed mental health (for example, as part of a wellness campaign or other official communication)?",object,3,287,20.02791346824843
+Does your employer offer resources to learn more about mental health concerns and options for seeking help?,object,3,287,20.02791346824843
+Is your anonymity protected if you choose to take advantage of mental health or substance abuse treatment resources provided by your employer?,object,3,287,20.02791346824843
+"If a mental health issue prompted you to request a medical leave from work, asking for that leave would be:",object,6,287,20.02791346824843
+Do you think that discussing a mental health disorder with your employer would have negative consequences?,object,3,287,20.02791346824843
+Do you think that discussing a physical health issue with your employer would have negative consequences?,object,3,287,20.02791346824843
+Would you feel comfortable discussing a mental health disorder with your coworkers?,object,3,287,20.02791346824843
+Would you feel comfortable discussing a mental health disorder with your direct supervisor(s)?,object,3,287,20.02791346824843
+Do you feel that your employer takes mental health as seriously as physical health?,object,3,287,20.02791346824843
+Have you heard of or observed negative consequences for co-workers who have been open about mental health issues in your workplace?,object,2,287,20.02791346824843
+Do you have medical coverage (private insurance or state-provided) which includes treatment of  mental health issues?,float64,2,1146,79.97208653175157
+Do you know local or online resources to seek help for a mental health disorder?,object,3,1146,79.97208653175157
+"If you have been diagnosed or treated for a mental health disorder, do you ever reveal this to clients or business contacts?",object,5,1146,79.97208653175157
+"If you have revealed a mental health issue to a client or business contact, do you believe this has impacted you negatively?",object,3,1289,89.95115143056525
+"If you have been diagnosed or treated for a mental health disorder, do you ever reveal this to coworkers or employees?",object,5,1146,79.97208653175157
+"If you have revealed a mental health issue to a coworker or employee, do you believe this has impacted you negatively?",object,4,1146,79.97208653175157
+Do you believe your productivity is ever affected by a mental health issue?,object,4,1146,79.97208653175157
+"If yes, what percentage of your work time (time performing primary or secondary job functions) is affected by a mental health issue?",object,4,1229,85.76413119330077
+Do you have previous employers?,int64,2,0,0.0
+Have your previous employers provided mental health benefits?,object,4,169,11.79344033496162
+Were you aware of the options for mental health care provided by your previous employers?,object,4,169,11.79344033496162
+Did your previous employers ever formally discuss mental health (as part of a wellness campaign or other official communication)?,object,4,169,11.79344033496162
+Did your previous employers provide resources to learn more about mental health issues and how to seek help?,object,3,169,11.79344033496162
+Was your anonymity protected if you chose to take advantage of mental health or substance abuse treatment resources with previous employers?,object,4,169,11.79344033496162
+Do you think that discussing a mental health disorder with previous employers would have negative consequences?,object,4,169,11.79344033496162
+Do you think that discussing a physical health issue with previous employers would have negative consequences?,object,3,169,11.79344033496162
+Would you have been willing to discuss a mental health issue with your previous co-workers?,object,3,169,11.79344033496162
+Would you have been willing to discuss a mental health issue with your direct supervisor(s)?,object,4,169,11.79344033496162
+Did you feel that your previous employers took mental health as seriously as physical health?,object,4,169,11.79344033496162
+Did you hear of or observe negative consequences for co-workers with mental health issues in your previous workplaces?,object,3,169,11.79344033496162
+Would you be willing to bring up a physical health issue with a potential employer in an interview?,object,3,0,0.0
+Why or why not?,object,1085,338,23.58688066992324
+Would you bring up a mental health issue with a potential employer in an interview?,object,3,0,0.0
+Why or why not?.1,object,1080,307,21.423586880669923
+Do you feel that being identified as a person with a mental health issue would hurt your career?,object,5,0,0.0
+Do you think that team members/co-workers would view you more negatively if they knew you suffered from a mental health issue?,object,5,0,0.0
+How willing would you be to share with friends and family that you have a mental illness?,object,6,0,0.0
+Have you observed or experienced an unsupportive or badly handled response to a mental health issue in your current or previous workplace?,object,4,89,6.210746685275645
+Have your observations of how another individual who discussed a mental health disorder made you less likely to reveal a mental health issue yourself in your current workplace?,object,3,776,54.152128401953945
+Do you have a family history of mental illness?,object,3,0,0.0
+Have you had a mental health disorder in the past?,object,3,0,0.0
+Do you currently have a mental health disorder?,object,3,0,0.0
+"If yes, what condition(s) have you been diagnosed with?",object,128,865,60.36287508722958
+"If maybe, what condition(s) do you believe you have?",object,99,1111,77.52965806001396
+Have you been diagnosed with a mental health condition by a medical professional?,object,2,0,0.0
+"If so, what condition(s) were you diagnosed with?",object,116,722,50.383810188415914
+Have you ever sought treatment for a mental health issue from a mental health professional?,int64,2,0,0.0
+"If you have a mental health issue, do you feel that it interferes with your work when being treated effectively?",object,5,0,0.0
+"If you have a mental health issue, do you feel that it interferes with your work when NOT being treated effectively?",object,5,0,0.0
+What is your age?,int64,53,0,0.0
+What is your gender?,object,70,3,0.20935101186322402
+What country do you live in?,object,53,0,0.0
+What US state or territory do you live in?,object,47,593,41.38171667829728
+What country do you work in?,object,53,0,0.0
+What US state or territory do you work in?,object,48,582,40.61409630146546
+Which of the following best describes your work position?,object,264,0,0.0
+Do you work remotely?,object,3,0,0.0
